@@ -1,0 +1,17 @@
+# Ignore Python cache
+__pycache__/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore environment files
+.env
+
+# Ignore compiled files
+*.pyc
+
+# Ignore node_modules folder
+node_modules/
+
+# Ignore log files
+*.log
